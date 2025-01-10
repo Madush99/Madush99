@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madush99&label=Profile%20views&color=0e75b6&style=flat" alt="madush99" /> </p>
 
 
-- 🌱 I’m currently learning **REACT and python**
+- 🌱 Software Engineer  **REACT,JavaScript,Node,TypeScript**
 
 - 📫 How to reach me **madusankagajadeera99@gmail.com**
 
